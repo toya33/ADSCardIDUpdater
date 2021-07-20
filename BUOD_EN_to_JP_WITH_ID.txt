@@ -1,0 +1,68 @@
+67127799,Rokket Caliber,ヴァレット・キャリバー
+93612434,Dualwiel Dragon,デュアルウィール・ドラゴン
+82777208,Acty of the Icejade,氷水のアクティ
+28762303,Tinola of the Icejade,氷水のティノーラ
+55151012,Tremolat of the Icejade,氷水のトレモラ
+81555617,Ad Libitum of Despia,デスピアの凶劇
+53212882,Flundereeze x Snowl,ふわんだりぃず×すのーる
+18940725,Flundereeze x Robina,ふわんだりぃず×ろびーな
+54334420,Flundereeze x Eaglen,ふわんだりぃず×いぐるん
+80433039,Flundereeze x Strich,ふわんだりぃず×すとりー
+17827173,Flundereeze x Toccan,ふわんだりぃず×とっかん
+80611581,Flundereeze x Empen,ふわんだりぃず×えんぺん
+16605586,Destiny HERO - Denier,Ｄ－ＨＥＲＯ ディナイアルガイ
+42090294,Reptilianne Nyaminy,レプティレス・ニャミニ
+89594399,Reptilianne Coatl,レプティレス・コアトル
+15983048,Greater Magikey - Mafteahl,大魔鍵－マフテアル
+42377643,Urchin Suship,うにの軍貫
+78362751,Icefish Suship,しらうおの軍貫
+14761450,Penguin Champion,ペンギン勇士
+41255165,Penguin Ninja,ペンギン忍者
+73640163,Penguin Priest,ペンギン僧侶
+44818,Starry Knight Orbitael,ホーリーナイツ・オルビタエル
+46033517,Machina Ruinforce,マシンナーズ・ルインフォース
+72427512,Mimetizing Man-Eater Bug,擬態する人喰い虫
+9822220,King of the Sky Prison,天獄の王
+35311929,Soldrapom Fengli,陽竜果フォンリー
+72305034,Dualize Lord - Goldknight,重起士道－ゴルドナイト
+8700633,Indomitable Beast Servant,不屈の獣僕
+34198387,Meutering,ニャータリング
+71583486,Outstanding Dog Mary,迷犬メリー
+7987191,Borreload Riot Dragon,ヴァレルロード・Ｒ・ドラゴン
+34072799,Transonic Bird,トランソニックバード
+60461804,Destiny HERO - Destroy Phoenix Enforcer,D-HERO デストロイフェニックスガイ
+32138660,Reptilianne Melusine,レプティレス・メルジーヌ
+69522668,Magikey-Mutated Ogre - Transfurmine,魔鍵変鬼－トランスフルミネ
+21915012,Cupid Pitch,ルイ・キューピット
+68300121,Magikey-Possessed Spirit - Weparthu,魔鍵憑霊－ウェパルトゥ
+94798725,Superdreadnought Suship - Urchin-Class Second Wardish,超弩級軍艦－うに型二番艦
+21293424,Carrier Suship - Icefish-Class Auxiliary Dish,空母軍貫－しらうお型特務艦
+67288539,Borrelcode Dragon,ヴァレルコード・ドラゴン
+93672138,Evil☆Twin's Trouble Sunny,Ｅｖｉｌ☆Ｔｗｉｎ’ｓ トラブル・サニー
+20071842,Heavy Trigger,ヘヴィ・トリガー
+56465981,The Xiangjian Dragonsword Appears,龍相剣現
+93850690,Xiangjianmen the Grand Spiritual Peak,大霊峰相剣現門
+29948294,Jubilation of the Branded,洛印の気炎
+82738008,Branded in Red,赫の烙印
+28126717,Flundereeze and the Mysterious Map,ふわんだりぃずと謎の地図
+55521751,Flundereeze and the Unknown Wind,ふわんだりぃずと未知の風
+81615450,Reptilianne Lamification,レプティレス・ラミフィケーション
+17000165,Reptilianne Recoil,レプティレス・リコイル
+54408264,Magikey Battle,魔鍵闘争
+80893872,Royal Penguins Garden,ロイヤル・ペンギンズ・ガーデン
+17888577,Sonic Tracker,音速を追う者
+53286626,Sunvine Sowing,聖蔓の播種
+89771220,Ursarctic Drytron,天斗輝巧極
+16165939,Supernatural Danger Zone,超自然警戒区域
+42560034,Night Flight,夜の逃避行
+89558743,Small World,スモール・ワールド
+15943341,Reloaded Cylinder,リローデッド・シリンダー
+41348446,Detonation Code,デトネーション・コード
+78836195,Xiangjian Research,瑞相剣究
+14821890,Xiangjian Sudden Shift,相剣暗転
+41215808,Flundereeze and the City of Dreams,ふわんだりぃずと夢の町
+77610503,Flundereeze and the Scary Sea,ふわんだりぃずと怖い海
+4008212,Break the Destiny,ブレイク・ザ・デステニー
+16598965,Stained Glass of the Valiant,聖邪のステンドグラス
+43986064,Giant Star Fall,巨星墜とし
+79371769,Laundry Trap,ラドリートラップ
